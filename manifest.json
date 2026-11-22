@@ -1,0 +1,10 @@
+{
+  "id": "typewriter-paper",
+  "name": "Typewriter Paper",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Typewriter-style writing in your normal editor. Mount the page to pin the line you're typing near the bottom; eject to roll it back up and trim trailing whitespace. Optional typewriter sounds.",
+  "author": "Jeremy Yeh",
+  "authorUrl": "https://github.com/jeremyyeh11",
+  "isDesktopOnly": false
+}
